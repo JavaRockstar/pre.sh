@@ -3,7 +3,7 @@ Automated Presearch Bot Written In Bash
 
 Pre.sh script uses xdotool to automate mouse and keyboard movements and input.
 
-Script can be ran when the system starts by adding.
+Script can be ran from cron when the system starts by adding to the start of pre.sh script.
 ```
 
 #export display
